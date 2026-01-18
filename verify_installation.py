@@ -126,6 +126,26 @@ def check_files():
     
     return len(missing) == 0
 
+def check_installation_files():
+    """Check installation-related files exist."""
+    print("\n[9/9] Checking installation files...")
+    install_files = [
+        'install.sh',
+        'install.ps1',
+        'install.py',
+        'INSTALL.md',
+        'verify_installation.py'
+    ]
+    missing = []
+    for file_path in install_files:
+        if Path(file_path).exists():
+            size = Path(file_path).stat().st_size
+            print(f"  [OK] {file_path} ({size:,} bytes)")
+        else:
+            print(f"  [ERROR] {file_path} - NOT FOUND")
+            missing.append(file_path)
+    return len(missing) == 0
+
 def check_directories():
     """Check required directories."""
     print("\n[6/8] Checking directories...")
@@ -198,7 +218,8 @@ def main():
         'files': check_files(),
         'directories': check_directories(),
         'oval_xml': check_oval_xml(),
-        'vendor_db': check_vendor_db()
+        'vendor_db': check_vendor_db(),
+        'install_files': check_installation_files()
     }
     
     print("\n" + "=" * 60)

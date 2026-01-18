@@ -132,7 +132,7 @@ fi
 # Pull default model
 echo ""
 echo "[6/6] Setting up Ollama model..."
-$PYTHON_CMD setup_ollama.py
+$PYTHON_CMD check_ollama.py --setup
 
 # Verify installation
 echo ""

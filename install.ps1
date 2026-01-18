@@ -135,7 +135,7 @@ if ($OS -eq "windows") {
 # Pull default model
 Write-Host ""
 Write-Host "[6/6] Setting up Ollama model..." -ForegroundColor Cyan
-& $pythonCmd setup_ollama.py
+& $pythonCmd check_ollama.py --setup
 
 # Verify installation
 Write-Host ""

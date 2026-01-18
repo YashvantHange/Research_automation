@@ -16,7 +16,7 @@ help:
 	@echo "  make research CVE=CVE-2025-5591"
 	@echo "  make research CVE=CVE-2025-5591 CVE2=CVE-2025-5592"
 	@echo "  make install          - Install dependencies"
-	@echo "  make test             - Run quick start test"
+	@echo "  make test             - Run verification test"
 	@echo "  make clean            - Clean output files"
 	@echo ""
 	@echo "Examples:"
@@ -35,8 +35,8 @@ install:
 	@echo "✓ Dependencies installed"
 
 test:
-	@echo "Running quick start test..."
-	python quick_start.py
+	@echo "Running verification test..."
+	python verify_installation.py
 
 clean:
 	@echo "Cleaning output files..."

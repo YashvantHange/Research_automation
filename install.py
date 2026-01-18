@@ -184,10 +184,10 @@ def start_ollama():
 def setup_ollama_model(python_cmd):
     """Setup Ollama model."""
     print("\n[6/6] Setting up Ollama model...")
-    if Path("setup_ollama.py").exists():
-        run_command([python_cmd, "setup_ollama.py"], check=False)
+    if Path("check_ollama.py").exists():
+        run_command([python_cmd, "check_ollama.py", "--setup"], check=False)
     else:
-        print("  [WARNING] setup_ollama.py not found")
+        print("  [WARNING] check_ollama.py not found")
 
 def verify_installation(python_cmd):
     """Verify installation."""

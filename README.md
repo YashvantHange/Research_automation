@@ -73,7 +73,17 @@ The installation script automatically:
 
 **Verify Setup:**
 ```bash
-python quick_start.py  # Checks all components
+python verify_installation.py  # Checks all components
+```
+
+## Example Usage
+
+```bash
+# Single CVE
+python research.py CVE-2025-21556
+
+# Multiple CVEs (combined JSON output)
+python research.py CVE-2025-21556 CVE-2025-59922
 ```
 
 ## Quick Start - Single Command
