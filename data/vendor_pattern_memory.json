@@ -1,0 +1,17 @@
+{
+  "oracle.com": {
+    "url_paths": [
+      "/security-alerts/cpujan2025.html"
+    ],
+    "version_patterns": [
+      "{'range': '< 9.2.9.2', 'description': 'Prior versions of JD Edwards EnterpriseOne Tools and Orchestrator before 9.2.9.2'}",
+      "{'range': '< 8.0.40 or < 8.4.3 or < 9.1.0', 'description': 'MySQL Cluster, MySQL Enterprise Backup, and MySQL Enterprise Firewall versions prior to these'}",
+      "{'range': '< 8.0.40 or < 8.4.3 or < 9.1.0', 'description': 'MySQL Connectors versions prior to these'}",
+      "{'range': '< 14.7.5.0.0', 'description': 'Oracle Banking Liquidity Management version before this'}",
+      "{'range': '> 7.6.32', 'description': 'Enterprise Manager for MySQL Database, prior to version'}",
+      "{'range': '<= 13.5.2.0.0 <= 9.1.0', 'description': 'Oracle Enterprise Manager for MySQL Database, prior versions', 'confidence': 'high'}",
+      "{'range': '< 8.0.40 and < 9.1.0', 'description': 'MySQL Cluster, earlier versions', 'confidence': 'medium'}",
+      "{'range': '<= 7.6.32 <= 8.4.3', 'description': 'MySQL Enterprise Backup, older versions', 'confidence': 'low'}"
+    ]
+  }
+}

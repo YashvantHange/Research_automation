@@ -1,0 +1,19 @@
+# Research Agent Configuration
+
+# Ollama Configuration
+ollama:
+  model: "llama3.2"  # Change to your preferred model
+  base_url: "http://localhost:11434"  # Default Ollama URL
+
+# API Keys (optional, for higher rate limits)
+api_keys:
+  nvd: ""  # Get from https://nvd.nist.gov/developers/request-an-api-key
+  github: ""  # GitHub personal access token
+
+# OVAL XML File Path
+oval_xml_path: "C:\\Users\\Yashvant\\OneDrive\\Documents\\OVAL_WINDOWS.xml"
+
+# Output Settings
+output:
+  directory: "outputs"
+  format: "markdown"  # or "json"

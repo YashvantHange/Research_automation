@@ -1,0 +1,1875 @@
+{
+  "Kentico": [
+    "devnet.kentico.com",
+    "packetstormsecurity.com",
+    "www.vulncheck.com",
+    "github.com",
+    "www.themissinglink.com.au"
+  ],
+  "Langflow": [
+    "github.com"
+  ],
+  "Microsoft Edge": [
+    "www.couchbase.com",
+    "chromereleases.googleblog.com",
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Unknown": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com",
+    "support.microsoft.com"
+  ],
+  "Jenkins": [
+    "www.jenkins.io",
+    "jenkins.io"
+  ],
+  "Microsoft PowerShell 7.2": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET Framework 2.0 Service Pack 2": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Google Chrome": [
+    "chromereleases.googleblog.com",
+    "support.apple.com",
+    "www.mozilla.org",
+    "googlechromereleases.blogspot.com",
+    "issues.chromium.org",
+    "www.couchbase.com",
+    "msrc.microsoft.com",
+    "www.oracle.com",
+    "blogs.opera.com"
+  ],
+  "Microsoft Visual Studio 2017": [
+    "www.couchbase.com",
+    "node.js.org",
+    "msrc.microsoft.com",
+    "www.oracle.com"
+  ],
+  "Microsoft Internet Explorer 10": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Devolutions Remote Desktop Manager": [
+    "devolutions.net"
+  ],
+  "Oracle VM VirtualBox": [
+    "www.oracle.com"
+  ],
+  "Adobe Bridge": [
+    "helpx.adobe.com"
+  ],
+  "Oracle Java SE": [
+    "github.com",
+    "docs.azul.com",
+    "www.couchbase.com",
+    "www.oracle.com"
+  ],
+  "Microsoft Dynamics 365": [
+    "msrc.microsoft.com"
+  ],
+  "LibreOffice": [
+    "www.libreoffice.org"
+  ],
+  "Adobe Photoshop CC": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft Internet Explorer 11": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Exchange Server 2013": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Oracle Application Testing Suite": [
+    "www.oracle.com"
+  ],
+  "Greenshot": [
+    "github.com",
+    "greenshot.atlassian.net"
+  ],
+  "Adobe After Effects": [
+    "helpx.adobe.com"
+  ],
+  "Apache HTTP Server": [
+    "httpd.apache.org",
+    "lists.apache.org"
+  ],
+  "Mattermost Desktop": [
+    "mattermost.com"
+  ],
+  "Oracle Application Express": [
+    "www.oracle.com"
+  ],
+  "Microsoft Visual Studio 2019": [
+    "github.com",
+    "node.js.org",
+    "msrc.microsoft.com"
+  ],
+  "ImageMagick": [
+    "www.metabaseq.com",
+    "bugs.chromium.org",
+    "bugzilla.redhat.com",
+    "github.com",
+    "access.redhat.com"
+  ],
+  "Oracle MySQL Cluster": [
+    "node.js.org",
+    "docs.azul.com",
+    "mariadb.com",
+    "www.oracle.com"
+  ],
+  "Amazon Corretto": [
+    "github.com",
+    "docs.azul.com",
+    "www.couchbase.com",
+    "www.oracle.com"
+  ],
+  "Adobe Audition": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft ASP.NET Core 2.1": [
+    "msrc.microsoft.com"
+  ],
+  "JetBrains YouTrack": [
+    "www.jetbrains.com"
+  ],
+  "Apache OpenOffice": [
+    "googlechromereleases.blogspot.com",
+    "www.libreoffice.org",
+    "www.openoffice.org"
+  ],
+  "PaperCut MF": [
+    "www.papercut.com"
+  ],
+  "Hitachi Vantara Pentaho Business Analytics Server": [
+    "support.pentaho.com"
+  ],
+  "Git": [
+    "github.com",
+    "msrc.microsoft.com",
+    "www.mail-archive.com"
+  ],
+  "MariaDB Server": [
+    "jira.mariadb.org",
+    "mariadb.com",
+    "www.oracle.com"
+  ],
+  "HP PC BIOS": [
+    "support.hp.com",
+    "msrc.microsoft.com",
+    "www.oracle.com"
+  ],
+  "Vim": [
+    "github.com"
+  ],
+  "Foxit Reader": [
+    "www.foxit.com",
+    "www.zerodayinitiative.com",
+    "www.tenable.com"
+  ],
+  "Microsoft Visual Studio Code": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle MySQL Server": [
+    "jira.mariadb.org",
+    "nodejs.org",
+    "node.js.org",
+    "mariadb.com",
+    "www.openssl.org",
+    "www.oracle.com",
+    "docs.azul.com"
+  ],
+  "Autodesk AutoCAD": [
+    "www.autodesk.com"
+  ],
+  "Oracle Identity Manager": [
+    "www.oracle.com"
+  ],
+  "Mozilla Firefox": [
+    "www.mozilla.org",
+    "googlechromereleases.blogspot.com",
+    "chromereleases.googleblog.com",
+    "msrc.microsoft.com"
+  ],
+  "Oracle Database Server": [
+    "cve.org",
+    "msrc.microsoft.com",
+    "mail.python.org",
+    "www.oracle.com",
+    "github.com"
+  ],
+  "Azul Zulu": [
+    "www.couchbase.com",
+    "msrc.microsoft.com",
+    "www.oracle.com",
+    "github.com",
+    "docs.azul.com"
+  ],
+  "Apache Airflow": [
+    "lists.apache.org"
+  ],
+  "Microsoft Outlook 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Outlook 2010 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle WebLogic Server": [
+    "www.couchbase.com",
+    "www.oracle.com"
+  ],
+  "MongoDB Community": [
+    "jira.mongodb.org"
+  ],
+  "Ivanti Workspace Control": [
+    "forums.ivanti.com"
+  ],
+  "Microsoft Silverlight 5": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Internet Explorer 9": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Project Server 2013 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle Business Intelligence Publisher": [
+    "www.oracle.com"
+  ],
+  "IBM Engineering Requirements Management DOORS Next": [
+    "www.ibm.com"
+  ],
+  "Microsoft .NET Core 2.0": [
+    "msrc.microsoft.com"
+  ],
+  "Node.js": [
+    "nodejs.org",
+    "support.hp.com",
+    "chromereleases.googleblog.com",
+    "node.js.org",
+    "security.netapp.com",
+    "mariadb.com",
+    "httpd.apache.org",
+    "gist.github.com",
+    "googlechromereleases.blogspot.com",
+    "www.couchbase.com",
+    "msrc.microsoft.com",
+    "www.dell.com",
+    "www.oracle.com",
+    "github.com",
+    "www.cvedetails.com"
+  ],
+  "Wireshark": [
+    "gitlab.com",
+    "www.wireshark.org"
+  ],
+  "Ivanti Avalanche": [
+    "forums.ivanti.com",
+    "github.com",
+    "download.wavelink.com"
+  ],
+  "DotNetNuke": [
+    "www.dnnsoftware.com",
+    "github.com",
+    "packetstormsecurity.com"
+  ],
+  "Microsoft ChakraCore": [
+    "msrc.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine ServiceDesk Plus": [
+    "pitstop.manageengine.com",
+    "www.fortiguard.com",
+    "www.manageengine.com",
+    "medium.com"
+  ],
+  "Zoho Corp ManageEngine ADSelfService Plus": [
+    "manageengine.com",
+    "www.manageengine.com",
+    "pitstop.manageengine.com",
+    "exchange.xforce.ibmcloud.com"
+  ],
+  "VMware Workstation": [
+    "support.broadcom.com",
+    "www.vmware.com"
+  ],
+  "Oracle Coherence": [
+    "www.oracle.com"
+  ],
+  "Adobe Photoshop 2023": [
+    "helpx.adobe.com"
+  ],
+  "Trend Micro Apex One": [
+    "success.trendmicro.com"
+  ],
+  "NVIDIA GPU Display Driver": [
+    "nvidia.custhelp.com"
+  ],
+  "Microsoft 365 Apps": [
+    "msrc.microsoft.com"
+  ],
+  "NVIDIA GeForce Experience": [
+    "nvidia.custhelp.com"
+  ],
+  "JetBrains IntelliJ IDEA": [
+    "www.jetbrains.com"
+  ],
+  "Apache Spark": [
+    "spark.apache.org",
+    "lists.apache.org",
+    "www.oracle.com"
+  ],
+  "JetBrains PyCharm": [
+    "www.jetbrains.com"
+  ],
+  "Microsoft .NET Core 2.1": [
+    "msrc.microsoft.com"
+  ],
+  "NoMachine": [
+    "www.zerodayinitiative.com",
+    "kb.nomachine.com"
+  ],
+  "Adobe Animate": [
+    "helpx.adobe.com"
+  ],
+  "Adobe InDesign": [
+    "helpx.adobe.com"
+  ],
+  "SoftEther VPN Client": [
+    "github.com",
+    "www.softether.org"
+  ],
+  "Oracle Business Intelligence Enterprise Edition": [
+    "www.teamviewer.com",
+    "lists.apache.org",
+    "www.oracle.com"
+  ],
+  "Adobe Illustrator 2023": [
+    "helpx.adobe.com"
+  ],
+  "Apple QuickTime": [
+    "support.apple.com"
+  ],
+  "Microsoft SQL Server 2016": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Adobe InCopy": [
+    "helpx.adobe.com"
+  ],
+  "Ivanti Endpoint Manager": [
+    "forums.ivanti.com"
+  ],
+  "Zoho Corp ManageEngine Remote Access Plus": [
+    "www.manageengine.com",
+    "excellium-services.com"
+  ],
+  "Fortinet FortiClient Endpoint Management Server": [
+    "www.fortiguard.com",
+    "fortiguard.fortinet.com"
+  ],
+  "Opera Browser": [
+    "blogs.opera.com",
+    "www.couchbase.com",
+    "chromereleases.googleblog.com",
+    "msrc.microsoft.com"
+  ],
+  "Apache Tomcat": [
+    "tomcat.apache.org",
+    "lists.apache.org",
+    "www.oracle.com"
+  ],
+  "Microsoft Word 2013 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Signal Desktop": [
+    "n0sign4l.blogspot.com",
+    "github.com",
+    "blog.mirch.io",
+    "seclists.org"
+  ],
+  "Devolutions Server": [
+    "devolutions.net"
+  ],
+  "Microsoft SharePoint Server 2010": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "PostgreSQL": [
+    "www.postgresql.org"
+  ],
+  "SonicWall NetExtender": [
+    "psirt.global.sonicwall.com",
+    "www.sonicwall.com"
+  ],
+  "Adobe Digital Editions": [
+    "helpx.adobe.com"
+  ],
+  "HPE System Management Homepage": [
+    "support.hpe.com",
+    "www.php.net"
+  ],
+  "Adobe Premiere Pro": [
+    "helpx.adobe.com"
+  ],
+  "Oracle WebCenter Portal": [
+    "www.oracle.com"
+  ],
+  "ConnectWise ScreenConnect": [
+    "www.connectwise.com",
+    "www.gov.il"
+  ],
+  "Splunk": [
+    "www.splunk.com",
+    "advisory.splunk.com",
+    "packetstormsecurity.com"
+  ],
+  "Microsoft Azure Connected Machine Agent": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Illustrator 2022": [
+    "helpx.adobe.com"
+  ],
+  "TIBCO JasperReports Server": [
+    "community.jaspersoft.com",
+    "community.tibco.com",
+    "www.tibco.com"
+  ],
+  "Qlik Sense Enterprise for Windows": [
+    "community.qlik.com"
+  ],
+  "IBM WebSphere Application Server Liberty": [
+    "www.ibm.com",
+    "www-01.ibm.com"
+  ],
+  "VideoLAN VLC media player": [
+    "www.videolan.org",
+    "images.videolan.org"
+  ],
+  "Microsoft ASP.NET Core 9.0": [
+    "msrc.microsoft.com"
+  ],
+  "McAfee Agent": [
+    "kc.mcafee.com",
+    "kcm.trellix.com",
+    "web.archive.org"
+  ],
+  "FileCatalyst TransferAgent": [
+    "www.fortra.com"
+  ],
+  "Adobe Acrobat Reader DC": [
+    "helpx.adobe.com"
+  ],
+  "Splunk Enterprise": [
+    "www.splunk.com",
+    "advisory.splunk.com"
+  ],
+  "Apple iTunes": [
+    "www.openoffice.org",
+    "lists.apple.com",
+    "support.apple.com",
+    "github.com",
+    "docs.azul.com"
+  ],
+  "Oracle Forms": [
+    "www.oracle.com"
+  ],
+  "PHP": [
+    "devco.re",
+    "security.netapp.com",
+    "bugs.php.net",
+    "forums.xmbforum2.com",
+    "github.com",
+    "www.php.net",
+    "php.net"
+  ],
+  "Foxit PhantomPDF": [
+    "www.foxit.com",
+    "www.zerodayinitiative.com",
+    "pdf-insecurity.org"
+  ],
+  "Cacti": [
+    "github.com",
+    "www.vulncheck.com",
+    "security.gentoo.org"
+  ],
+  "Adobe Media Encoder": [
+    "helpx.adobe.com"
+  ],
+  "Mozilla Thunderbird": [
+    "www.mozilla.org",
+    "chromereleases.googleblog.com",
+    "docs.azul.com",
+    "www.oracle.com"
+  ],
+  "Microsoft Access 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET 9.0": [
+    "msrc.microsoft.com"
+  ],
+  "Apple iCloud": [
+    "support.apple.com",
+    "www.oracle.com"
+  ],
+  "Oracle Essbase": [
+    "www.oracle.com"
+  ],
+  "Apple Safari": [
+    "googlechromereleases.blogspot.com",
+    "support.apple.com",
+    "lists.apple.com"
+  ],
+  "Adobe Dimension": [
+    "helpx.adobe.com"
+  ],
+  "JetBrains TeamCity": [
+    "www.jetbrains.com"
+  ],
+  "Adobe Creative Cloud Desktop Application": [
+    "helpx.adobe.com"
+  ],
+  "Python": [
+    "security.netapp.com",
+    "bugs.python.org",
+    "mail.python.org",
+    "www.oracle.com",
+    "github.com",
+    "python-security.readthedocs.io",
+    "lists.debian.org"
+  ],
+  "Couchbase Server": [
+    "chromereleases.googleblog.com",
+    "bugs.python.org",
+    "www.couchbase.com",
+    "msrc.microsoft.com",
+    "www.oracle.com"
+  ],
+  "Microsoft Visual Studio 2022": [
+    "msrc.microsoft.com",
+    "www.oracle.com"
+  ],
+  "Microsoft SharePoint Enterprise Server 2016": [
+    "msrc.microsoft.com"
+  ],
+  "WSO2 Enterprise Integrator": [
+    "www.gruppotim.it",
+    "security.docs.wso2.com"
+  ],
+  "Dell Command | Configure": [
+    "www.dell.com"
+  ],
+  "Oracle MySQL Workbench": [
+    "mail.python.org",
+    "msrc.microsoft.com",
+    "www.oracle.com",
+    "github.com",
+    "docs.azul.com"
+  ],
+  "Oracle WebCenter Sites": [
+    "www.oracle.com"
+  ],
+  "Zoom": [
+    "www.tenable.com",
+    "www.zoom.com",
+    "talosintelligence.com"
+  ],
+  "Microsoft Dynamics NAV 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine ADManager Plus": [
+    "www.manageengine.com"
+  ],
+  "Adobe Photoshop 2020": [
+    "helpx.adobe.com"
+  ],
+  "LAN Messenger": [
+    "www.incibe.es"
+  ],
+  "Microsoft Visual Studio 2015": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET 7.0": [
+    "msrc.microsoft.com"
+  ],
+  "IBM Db2": [
+    "www.ibm.com",
+    "www-01.ibm.com",
+    "www-1.ibm.com",
+    "www.auscert.org.au",
+    "exchange.xforce.ibmcloud.com"
+  ],
+  "Zoom Rooms": [
+    "www.zoom.com"
+  ],
+  "Adobe Illustrator 2020": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft Remote Desktop Client": [
+    "msrc.microsoft.com"
+  ],
+  "Netskope Client": [
+    "www.netskope.com"
+  ],
+  "Dell SupportAssist for Home PCs": [
+    "www.dell.com"
+  ],
+  "TeamViewer": [
+    "www.teamviewer.com",
+    "community.teamviewer.com"
+  ],
+  "Fluent Bit": [
+    "www.tenable.com",
+    "www.oligo.security",
+    "fluentbit.io"
+  ],
+  "Mozilla Firefox ESR": [
+    "www.mozilla.org",
+    "chromereleases.googleblog.com",
+    "msrc.microsoft.com",
+    "www.oracle.com"
+  ],
+  "Oracle Enterprise Data Quality": [
+    "www.oracle.com"
+  ],
+  "Microsoft Office 2010 Service Pack 2": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Mozilla SeaMonkey": [
+    "www.mozilla.org",
+    "googlechromereleases.blogspot.com",
+    "www.oracle.com"
+  ],
+  "Arcserve UDP": [
+    "support.arcserve.com",
+    "www.zerodayinitiative.com",
+    "www.tenable.com"
+  ],
+  "Microsoft Office 2013 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Office 2007 Service Pack 3": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Excel 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "Progress MOVEit Transfer": [
+    "community.progress.com",
+    "docs.progress.com"
+  ],
+  "Artifex Ghostscript": [
+    "bugs.ghostscript.com",
+    "security.gentoo.org"
+  ],
+  "Microsoft Word 2010 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "Palo Alto Networks GlobalProtect App": [
+    "security.paloaltonetworks.com"
+  ],
+  "Dell Encryption": [
+    "www.dell.com"
+  ],
+  "GnuPG": [
+    "dev.gnupg.org",
+    "sektioneins.de",
+    "www.gnupg.org",
+    "security.gentoo.org",
+    "blog.fuzzing-project.org",
+    "seclists.org",
+    "bugzilla.redhat.com",
+    "lists.gnupg.org",
+    "access.redhat.com"
+  ],
+  "Atlassian Bamboo Server": [
+    "jira.atlassian.com"
+  ],
+  "OpenAFS": [
+    "openafs.org",
+    "www.openafs.org"
+  ],
+  "Atlassian Jira Server": [
+    "jira.atlassian.com"
+  ],
+  "Docker Desktop": [
+    "www.docker.com",
+    "docs.docker.com"
+  ],
+  "Adobe Photoshop 2021": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft HEVC Video Extensions": [
+    "msrc.microsoft.com"
+  ],
+  "Checkbox Survey": [
+    "www.kb.cert.org"
+  ],
+  "Foxit PDF Editor": [
+    "www.foxit.com"
+  ],
+  "Oracle Access Manager": [
+    "www.oracle.com"
+  ],
+  "Microsoft .NET 6.0": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Exchange Server 2010": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft PowerShell 7.0": [
+    "msrc.microsoft.com"
+  ],
+  "Trihedral VTScada": [
+    "www.cisa.gov"
+  ],
+  "Microsoft .NET Core 1.0": [
+    "msrc.microsoft.com"
+  ],
+  "OpenVPN": [
+    "openvpn.net",
+    "community.openvpn.net",
+    "www.mail-archive.com"
+  ],
+  "Microsoft SharePoint Server 2019": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Raw Image Extension": [
+    "msrc.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine Applications Manager": [
+    "www.manageengine.com"
+  ],
+  "Microsoft .NET Framework 3.5": [
+    "msrc.microsoft.com"
+  ],
+  "Citrix Workspace App HTML5": [
+    "support.citrix.com"
+  ],
+  "Winamp": [
+    "www.rcesecurity.com",
+    "github.com"
+  ],
+  "Zoho Corp ManageEngine Endpoint Central": [
+    "www.incibe.es",
+    "www.manageengine.com"
+  ],
+  "Microsoft ASP.NET Core 2.0": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Connect": [
+    "helpx.adobe.com"
+  ],
+  "Foxit PDF Reader": [
+    "www.foxit.com"
+  ],
+  "Microsoft ASP.NET Core 1.0": [
+    "msrc.microsoft.com"
+  ],
+  "IBM MQ": [
+    "www.ibm.com"
+  ],
+  "SaltStack Salt": [
+    "www.openwall.com",
+    "seclists.org",
+    "docs.saltproject.io",
+    "saltproject.io"
+  ],
+  "Adobe Acrobat": [
+    "helpx.adobe.com",
+    "www.adobe.com",
+    "www.foxit.com"
+  ],
+  "Sonatype Nexus": [
+    "support.sonatype.com"
+  ],
+  "Tungsten Automation Power PDF": [
+    "www.zerodayinitiative.com",
+    "docshield.tungstenautomation.com"
+  ],
+  "Trimble Sketchup": [
+    "www.zerodayinitiative.com"
+  ],
+  "AnyDesk": [
+    "anydesk.com",
+    "gist.github.com",
+    "download.anydesk.com",
+    "packetstormsecurity.com",
+    "www.zerodayinitiative.com"
+  ],
+  "Microsoft SQL Server 2008": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft ODBC Driver 17": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle Enterprise Manager Base Platform": [
+    "www.couchbase.com",
+    "www.oracle.com"
+  ],
+  "Fortinet FortiClient": [
+    "fortiguard.com",
+    "www.coresecurity.com",
+    "fortiguard.fortinet.com"
+  ],
+  "IBM WebSphere Application Server": [
+    "www.ibm.com",
+    "www-01.ibm.com"
+  ],
+  "Elasticsearch": [
+    "discuss.elastic.co",
+    "security.netapp.com",
+    "www.elastic.co"
+  ],
+  "Citrix ShareFile Storage Zones Controller": [
+    "support.citrix.com"
+  ],
+  "Dell Command | Update": [
+    "www.dell.com"
+  ],
+  "Adobe Dreamweaver": [
+    "helpx.adobe.com"
+  ],
+  "Adobe Photoshop 2022": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft PowerShell Core 6.1": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft SQL Server 2012": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Windows Malicious Software Removal Tool": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle WebCenter Content": [
+    "www.oracle.com"
+  ],
+  "Microsoft .NET Framework 4.5.2": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft ASP.NET Core 3.0": [
+    "msrc.microsoft.com"
+  ],
+  "Splunk Universal Forwarder": [
+    "www.splunk.com",
+    "advisory.splunk.com"
+  ],
+  "WatchGuard Mobile VPN with SSL client": [
+    "software.watchguard.com",
+    "www.watchguard.com"
+  ],
+  "Microsoft .NET 8.0": [
+    "msrc.microsoft.com"
+  ],
+  "BQE BillQuick Web Suite": [
+    "www.huntress.com"
+  ],
+  "IrfanView": [
+    "www.sit.fraunhofer.de",
+    "github.com",
+    "sec-consult.com",
+    "gist.github.com"
+  ],
+  "Atlassian Confluence Server": [
+    "confluence.atlassian.com",
+    "jira.atlassian.com"
+  ],
+  "Oracle JDeveloper": [
+    "www.oracle.com"
+  ],
+  "Wibu-Systems CodeMeter": [
+    "cdn.wibu.com"
+  ],
+  "Microsoft SQL Server Management Studio 18": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Word 2007 Service Pack 3": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET Framework 3.5 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle Tuxedo": [
+    "www.oracle.com"
+  ],
+  "Microsoft Excel 2016": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Cisco Secure Client": [
+    "www.cisco.com",
+    "tools.cisco.com",
+    "sec.cloudapps.cisco.com"
+  ],
+  "Microsoft Exchange Server 2016": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "VMware Tools": [
+    "support.broadcom.com",
+    "www.vmware.com"
+  ],
+  "SolarWinds Access Rights Manager": [
+    "www.solarwinds.com"
+  ],
+  "Microsoft SharePoint Enterprise Server 2013": [
+    "msrc.microsoft.com"
+  ],
+  "McAfee File and Removable Media Protection": [
+    "kc.mcafee.com"
+  ],
+  "Microsoft 3D Viewer": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Office Universal": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft WebP Image Extension": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft AV1 Video Extension": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft HEIF Image Extension": [
+    "msrc.microsoft.com"
+  ],
+  "Pidgin": [
+    "pidgin.im"
+  ],
+  "Microsoft Word 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Solarwinds Serv-U": [
+    "documentation.solarwinds.com",
+    "www.solarwinds.com"
+  ],
+  "RealVNC VNC Server": [
+    "help.realvnc.com"
+  ],
+  "Microsoft .NET 5.0": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft SharePoint Server 2013": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft PowerPoint Viewer 2010": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Veeam Backup and Replication": [
+    "www.veeam.com"
+  ],
+  "Microsoft Office Online Server": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe ColdFusion 10": [
+    "helpx.adobe.com"
+  ],
+  "WPS Office": [
+    "talosintelligence.com",
+    "support.kingsoft.jp",
+    "github.com",
+    "asec.ahnlab.com",
+    "jvn.jp"
+  ],
+  "7-Zip": [
+    "sourceforge.net",
+    "security.netapp.com",
+    "securitylab.github.com",
+    "www.zerodayinitiative.com",
+    "github.com"
+  ],
+  "Cisco Jabber": [
+    "tools.cisco.com",
+    "sec.cloudapps.cisco.com"
+  ],
+  "Zoho Corp ManageEngine ADAudit Plus": [
+    "www.manageengine.com"
+  ],
+  "Progress Telerik Reporting": [
+    "docs.telerik.com",
+    "community.progress.com"
+  ],
+  "WSO2 API Manager": [
+    "www.rodrigofavarini.com.br",
+    "github.com",
+    "security.docs.wso2.com",
+    "excellium-services.com"
+  ],
+  "GIMP": [
+    "www.gimp.org",
+    "www.cve.org",
+    "gitlab.gnome.org",
+    "bugzilla.gnome.org",
+    "www.zerodayinitiative.com"
+  ],
+  "Adobe ColdFusion 2018": [
+    "helpx.adobe.com"
+  ],
+  "Apache Hadoop": [
+    "lists.apache.org"
+  ],
+  "Delta Electronics DOPSoft": [
+    "www.cisa.gov"
+  ],
+  "Microsoft PC Manager": [
+    "msrc.microsoft.com"
+  ],
+  "HP Device Manager": [
+    "support.hp.com"
+  ],
+  "Microsoft SQL Server 2017": [
+    "msrc.microsoft.com"
+  ],
+  "WinRAR": [
+    "blog.google",
+    "www.rarlab.com",
+    "www.vulncheck.com",
+    "www.zerodayinitiative.com",
+    "jvn.jp"
+  ],
+  "Adobe Illustrator 2024": [
+    "helpx.adobe.com"
+  ],
+  "Adobe Shockwave Player": [
+    "helpx.adobe.com"
+  ],
+  "Cisco Webex App": [
+    "tools.cisco.com",
+    "sec.cloudapps.cisco.com"
+  ],
+  "VMware vSphere Client": [
+    "support.broadcom.com"
+  ],
+  "Zoho Corp ManageEngine Firewall Analyzer": [
+    "www.manageengine.com"
+  ],
+  "GeoServer": [
+    "github.com"
+  ],
+  "XAMPP": [
+    "www.incibe.es",
+    "shinnai.altervista.org",
+    "www.apachefriends.org"
+  ],
+  "VMware Remote Console": [
+    "www.vmware.com"
+  ],
+  "Qbik WinGate": [
+    "hyp3rlinx.altervista.org"
+  ],
+  "NextGen Healthcare Mirth Connect": [
+    "www.horizon3.ai"
+  ],
+  "SumatraPDF": [
+    "github.com"
+  ],
+  "Webmin": [
+    "github.com",
+    "senscybersecurity.nl",
+    "jvn.jp"
+  ],
+  "Oracle Business Process Management Suite": [
+    "www.oracle.com"
+  ],
+  "Adobe Photoshop 2025": [
+    "helpx.adobe.com"
+  ],
+  "Adobe ColdFusion 2023": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft Paint 3D": [
+    "msrc.microsoft.com"
+  ],
+  "Lenovo System Update": [
+    "support.lenovo.com"
+  ],
+  "Adobe Character Animator 2021": [
+    "helpx.adobe.com"
+  ],
+  "QlikView": [
+    "www.exploit-db.com",
+    "github.com",
+    "community.qlik.com",
+    "support.qlik.com"
+  ],
+  "Adobe Animate 2023": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft Excel 2010 Service Pack 2": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Atlassian Crowd and Crowd Data Center": [
+    "jira.atlassian.com"
+  ],
+  "Puppet Agent": [
+    "github.com",
+    "www.puppet.com"
+  ],
+  "PaperCut NG": [
+    "www.papercut.com"
+  ],
+  "Evernote": [
+    "jvndb.jvn.jp"
+  ],
+  "Autodesk FBX SDK": [
+    "www.autodesk.com"
+  ],
+  "Oracle GoldenGate": [
+    "www.oracle.com"
+  ],
+  "HPE Version Control Repository Manager": [
+    "support.hpe.com"
+  ],
+  "Malwarebytes": [
+    "www.malwarebytes.com",
+    "support.malwarebytes.com"
+  ],
+  "Microsoft ODBC Driver 18": [
+    "msrc.microsoft.com"
+  ],
+  "WinSCP": [
+    "winscp.net"
+  ],
+  "Apache Airflow Providers Snowflake": [
+    "lists.apache.org"
+  ],
+  "Adobe ColdFusion 9": [
+    "helpx.adobe.com",
+    "www.adobe.com"
+  ],
+  "Zoho Corp ManageEngine Access Manager Plus": [
+    "pitstop.manageengine.com",
+    "www.manageengine.com"
+  ],
+  "Adobe Illustrator 2021": [
+    "helpx.adobe.com"
+  ],
+  "Zoho Corp ManageEngine Endpoint Central MSP": [
+    "www.manageengine.com"
+  ],
+  "AVG AntiVirus": [
+    "www.zerodayinitiative.com",
+    "support.norton.com",
+    "www.cve.org"
+  ],
+  "Adobe ColdFusion 2025": [
+    "helpx.adobe.com"
+  ],
+  "Notepad++": [
+    "github.com",
+    "securitylab.github.com",
+    "vuldb.com"
+  ],
+  "Microsoft Project Server 2010": [
+    "learn.microsoft.com"
+  ],
+  "Excel Services on Microsoft SharePoint Server 2013": [
+    "learn.microsoft.com"
+  ],
+  "Word Automation Services on Microsoft SharePoint Server 2010": [
+    "learn.microsoft.com"
+  ],
+  "Microsoft SharePoint Server 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Apache CouchDB": [
+    "blog.couchdb.org",
+    "lists.apache.org",
+    "docs.couchdb.org"
+  ],
+  "FirebirdSQL Firebird": [
+    "github.com"
+  ],
+  "Microsoft Windows Defender": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Office 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Trend Micro Apex Central": [
+    "success.trendmicro.com",
+    "appweb-trendmicro-com.translate.goog"
+  ],
+  "Zoho Corp ManageEngine Analytics Plus": [
+    "www.manageengine.com"
+  ],
+  "Microsoft SharePoint Foundation 2010": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine ServiceDesk Plus MSP": [
+    "pitstop.manageengine.com",
+    "www.manageengine.com"
+  ],
+  "R Project": [
+    "lists.fedoraproject.org"
+  ],
+  "Microsoft Power Automate Desktop": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe ColdFusion 2016": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft SharePoint Foundation 2013": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Excel Services on Microsoft SharePoint Server 2007": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Office LTSC 2021": [
+    "msrc.microsoft.com"
+  ],
+  "AIMP": [
+    "www.exploit-db.com"
+  ],
+  "Broadcom Symantec Endpoint Protection": [
+    "support.broadcom.com"
+  ],
+  "Pulse Secure Desktop Client": [
+    "forums.ivanti.com"
+  ],
+  "Microsoft 3D Builder": [
+    "msrc.microsoft.com"
+  ],
+  "McAfee ePolicy Orchestrator": [
+    "kcm.trellix.com"
+  ],
+  "Oracle MySQL Connector/Python": [
+    "www.oracle.com"
+  ],
+  "Cisco Webex Meetings": [
+    "www.cisco.com",
+    "tools.cisco.com",
+    "sec.cloudapps.cisco.com"
+  ],
+  "Microsoft SQL Server Management Studio 17": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Animate 2021": [
+    "helpx.adobe.com"
+  ],
+  "Zoho Corp ManageEngine SupportCenter Plus": [
+    "pitstop.manageengine.com",
+    "www.manageengine.com"
+  ],
+  "PuTTY": [
+    "security.netapp.com",
+    "docs.ssh-mitm.at",
+    "winscp.net",
+    "www.oracle.com"
+  ],
+  "Atlassian Jira Server and Data Center": [
+    "jira.atlassian.com"
+  ],
+  "Microsoft Teams": [
+    "msrc.microsoft.com"
+  ],
+  "Wibu-Systems WibuKey Network server management": [
+    "talosintelligence.com"
+  ],
+  "Microsoft Snipping Tool": [
+    "msrc.microsoft.com"
+  ],
+  "McAfee Endpoint Security": [
+    "kc.mcafee.com"
+  ],
+  "Microsoft XML Core Services 3.0": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Adobe ColdFusion 2021": [
+    "helpx.adobe.com"
+  ],
+  "Progress Telerik Report Server": [
+    "docs.telerik.com"
+  ],
+  "Microsoft Publisher 2010 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine Asset Explorer": [
+    "packetstormsecurity.com",
+    "www.manageengine.com"
+  ],
+  "Microsoft TorchGeo": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Office Web Apps 2010 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "Telegram": [
+    "github.com",
+    "www.inputzero.io",
+    "mtpsym.github.io"
+  ],
+  "Wibu-Systems WibuKey": [
+    "cdn.wibu.com",
+    "talosintelligence.com"
+  ],
+  "Oracle MySQL Connector/Net": [
+    "bugs.mysql.com",
+    "www.oracle.com"
+  ],
+  "Progress Telerik UI for Silverlight": [
+    "docs.telerik.com"
+  ],
+  "Microsoft SQL Server 2019": [
+    "msrc.microsoft.com"
+  ],
+  "Privoxy": [
+    "www.privoxy.org"
+  ],
+  "Microsoft App Installer": [
+    "msrc.microsoft.com"
+  ],
+  "JetBrains PhpStorm": [
+    "www.jetbrains.com",
+    "blog.jetbrains.com"
+  ],
+  "Citrix Workspace App": [
+    "support.citrix.com"
+  ],
+  "Microsoft Photos": [
+    "msrc.microsoft.com"
+  ],
+  "Solarwinds Virtualization Manager": [
+    "seclists.org"
+  ],
+  "Unitronics VisiLogic": [
+    "downloads.unitronicsplc.com"
+  ],
+  "Autodesk Design Review": [
+    "www.autodesk.com"
+  ],
+  "Microsoft OLE DB Driver 18": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Xbox Gaming Services": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Animate 2022": [
+    "helpx.adobe.com"
+  ],
+  "Brave Browser": [
+    "hackerone.com"
+  ],
+  "Fortra GoAnywhere MFT": [
+    "my.goanywhere.com",
+    "github.com",
+    "www.fortra.com",
+    "www.rapid7.com"
+  ],
+  "Grails": [
+    "grails.org"
+  ],
+  "FileZilla Client": [
+    "www.vulncheck.com"
+  ],
+  "Adobe Illustrator CC 2019": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft Exchange Server 2007": [
+    "learn.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine Exchange Reporter Plus": [
+    "www.manageengine.com"
+  ],
+  "Microsoft Office 2019": [
+    "msrc.microsoft.com"
+  ],
+  "Plex Media Server": [
+    "forums.plex.tv",
+    "www.tenable.com"
+  ],
+  "Microsoft Windows Admin Center": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Visual Studio 2010": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Outlook for Windows": [
+    "msrc.microsoft.com"
+  ],
+  "Mobatek MobaXterm": [
+    "mobaxterm.mobatek.net",
+    "www.vulnerability-lab.com"
+  ],
+  "Microsoft Malware Protection Engine": [
+    "msrc.microsoft.com"
+  ],
+  "draw.io": [
+    "github.com"
+  ],
+  "Adobe Brackets": [
+    "helpx.adobe.com"
+  ],
+  "Zoho Corp ManageEngine PAM360": [
+    "pitstop.manageengine.com",
+    "www.manageengine.com"
+  ],
+  "Flexera InstallShield": [
+    "www.dell.com",
+    "community.revenera.com"
+  ],
+  "AOL Instant Messenger": [
+    "exchange.xforce.ibmcloud.com"
+  ],
+  "Microsoft .NET Framework 4.6": [
+    "learn.microsoft.com"
+  ],
+  "KMPlayer": [
+    "github.com",
+    "www.exploit-db.com"
+  ],
+  "Zoho Corp ManageEngine OPManager": [
+    "www.manageengine.com"
+  ],
+  "Microsoft .NET Framework 4.7.2": [
+    "msrc.microsoft.com"
+  ],
+  "Avast Antivirus": [
+    "www.zerodayinitiative.com",
+    "www.gendigital.com"
+  ],
+  "VMware Horizon Client": [
+    "www.vmware.com"
+  ],
+  "Valve Steam Client": [
+    "store.steampowered.com"
+  ],
+  "McAfee Total Protection": [
+    "www.mcafee.com"
+  ],
+  "Microsoft Dynamics NAV 2018": [
+    "msrc.microsoft.com"
+  ],
+  "McAfee DLP Endpoint": [
+    "kc.mcafee.com",
+    "vuldb.com",
+    "www.mcafee.com"
+  ],
+  "Microsoft .NET Core 3.1": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Windows Terminal": [
+    "msrc.microsoft.com"
+  ],
+  "Progress Telerik UI for ASP.NET AJAX": [
+    "maverickblogging.com",
+    "docs.telerik.com",
+    "www.telerik.com"
+  ],
+  "Microsoft Endpoint Configuration Manager": [
+    "docs.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Azure CLI": [
+    "msrc.microsoft.com"
+  ],
+  "Wazuh Agent": [
+    "documentation.wazuh.com",
+    "github.com"
+  ],
+  "Adobe Illustrator 2025": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft SQL Server 2014": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft SQL Server 2022": [
+    "msrc.microsoft.com"
+  ],
+  "Bitwarden": [
+    "github.com"
+  ],
+  "Apache Commons Configuration": [
+    "github.com",
+    "lists.apache.org",
+    "www.oracle.com"
+  ],
+  "Apache Kafka": [
+    "kafka.apache.org",
+    "lists.apache.org",
+    "www.mail-archive.com"
+  ],
+  "Rejetto HTTP File Server": [
+    "www.kb.cert.org"
+  ],
+  "Cisco Proximity": [
+    "sec.cloudapps.cisco.com"
+  ],
+  "Microsoft ASP.NET Core 3.1": [
+    "msrc.microsoft.com"
+  ],
+  "KeePass": [
+    "keepass.info"
+  ],
+  "Microsoft Excel 2013 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Inkscape": [
+    "www.cisa.gov"
+  ],
+  "Docker Engine": [
+    "www.docker.com",
+    "docs.docker.com"
+  ],
+  "Adobe Premiere Pro CC 2019": [
+    "helpx.adobe.com"
+  ],
+  "HP ProCurve Manager": [
+    "support.hpe.com"
+  ],
+  "Microsoft ASP.NET Core 2.2": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Word Viewer 2003": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft PowerShell 7.3": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Visio 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "GitHub Desktop": [
+    "github.com"
+  ],
+  "Microsoft Azure Data Studio": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET Framework 4.8.1": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET Framework 3.0 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft VP9 Video Extensions": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Outlook 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Character Animator CC 2019": [
+    "helpx.adobe.com"
+  ],
+  "BlueStacks": [
+    "claroty.com",
+    "support.bluestacks.com"
+  ],
+  "Calibre": [
+    "github.com",
+    "starlabs.sg"
+  ],
+  "Piriform CCleaner": [
+    "www.gendigital.com",
+    "www.ccleaner.com"
+  ],
+  "Meta WhatsApp Desktop": [
+    "www.facebook.com"
+  ],
+  "Microsoft .NET Framework 4.6.1": [
+    "msrc.microsoft.com"
+  ],
+  "XnView Classic": [
+    "www.zerodayinitiative.com",
+    "github.com",
+    "code610.blogspot.com"
+  ],
+  "Microsoft MPEG-2 Video Extension": [
+    "msrc.microsoft.com"
+  ],
+  "Bitdefender Antivirus Free": [
+    "www.bitdefender.com"
+  ],
+  "McAfee Endpoint Security Web Control": [
+    "kc.mcafee.com",
+    "vuldb.com"
+  ],
+  "OpenVPN Connect": [
+    "openvpn.net"
+  ],
+  "Microsoft PowerShell 7.4": [
+    "msrc.microsoft.com"
+  ],
+  "jamovi": [
+    "github.com"
+  ],
+  "Microsoft .NET Framework 4.6.2": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "TightVNC": [
+    "medium.com"
+  ],
+  "Microsoft PowerPoint 2016": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Project Server 2010 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Office Compatibility Pack 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "Dell Peripheral Manager": [
+    "www.dell.com"
+  ],
+  "Microsoft Print 3D": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Captivate": [
+    "helpx.adobe.com"
+  ],
+  "Microsoft Hyper-V RemoteFX vGPU": [
+    "portal.msrc.microsoft.com",
+    "nvidia.custhelp.com"
+  ],
+  "Citrix StoreFront": [
+    "support.citrix.com"
+  ],
+  "Microsoft Visio 2013 Service Pack 1": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET Framework 4.5.1": [
+    "learn.microsoft.com"
+  ],
+  "Microsoft XML Core Services 5.0": [
+    "learn.microsoft.com"
+  ],
+  "Microsoft Office 2013": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Remote Desktop Client 7.0": [
+    "learn.microsoft.com"
+  ],
+  "Word Automation Services on Microsoft SharePoint Server 2013": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Dynamics NAV 2017": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft SQL Server Management Studio 20": [
+    "msrc.microsoft.com"
+  ],
+  "Ricoh PCL6 Driver for Universal Print": [
+    "www.ricoh.com"
+  ],
+  "RealVNC VNC Viewer": [
+    "help.realvnc.com"
+  ],
+  "Microsoft Excel Viewer 2007 Service Pack 2": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Internet Explorer 8": [
+    "learn.microsoft.com"
+  ],
+  "Microsoft Internet Explorer 7": [
+    "learn.microsoft.com"
+  ],
+  "Microsoft SharePoint Server Subscription Edition": [
+    "msrc.microsoft.com"
+  ],
+  "Progress Telerik Sitefinity CMS": [
+    "docs.telerik.com"
+  ],
+  "Microsoft Remote Desktop Client for Windows Desktop": [
+    "msrc.microsoft.com"
+  ],
+  "JetBrains WebStorm": [
+    "www.jetbrains.com",
+    "blog.jetbrains.com"
+  ],
+  "Microsoft Windows SharePoint Services 3.0": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Adobe Flash Player NPAPI": [
+    "chromereleases.googleblog.com"
+  ],
+  "Cisco Smart Licensing Utility": [
+    "sec.cloudapps.cisco.com"
+  ],
+  "Microsoft Azure File Sync": [
+    "msrc.microsoft.com"
+  ],
+  "Zoho ManageEngine Network Configuration Manager": [
+    "www.manageengine.com"
+  ],
+  "Adobe Animate CC 2019": [
+    "helpx.adobe.com"
+  ],
+  "Progress Telerik JustDecompile": [
+    "docs.telerik.com"
+  ],
+  "Microsoft Azure Kinect SDK": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Visual Studio Code - Kubernetes Tools": [
+    "msrc.microsoft.com"
+  ],
+  "Adobe Character Animator 2020": [
+    "helpx.adobe.com"
+  ],
+  "VMware Enhanced Authentication Plug-in": [
+    "www.vmware.com"
+  ],
+  "McAfee DLP ePO Extension": [
+    "kcm.trellix.com"
+  ],
+  "Atlassian Sourcetree": [
+    "jira.atlassian.com"
+  ],
+  "Microsoft Exchange Server 2019": [
+    "msrc.microsoft.com"
+  ],
+  "Trimble Sketchup Viewer": [
+    "www.zerodayinitiative.com"
+  ],
+  "Microsoft .NET Core 2.2": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft ASP.NET Core 2.3": [
+    "msrc.microsoft.com"
+  ],
+  "WSO2 Identity Server": [
+    "security.docs.wso2.com",
+    "seclists.org"
+  ],
+  "SolarWinds Dameware Mini Remote Control": [
+    "documentation.solarwinds.com"
+  ],
+  "Microsoft Power Apps": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft .NET Framework 1.1 Service Pack 1": [
+    "learn.microsoft.com"
+  ],
+  "Microsoft Excel Viewer 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "Softneta MedDream PACS Premium": [
+    "www.cisa.gov",
+    "www.softneta.com"
+  ],
+  "TechSmith Snagit": [
+    "support.techsmith.com"
+  ],
+  "Excel Services on Microsoft SharePoint Server 2010": [
+    "msrc.microsoft.com"
+  ],
+  "Google Sketchup": [
+    "learn.microsoft.com"
+  ],
+  "Zoho Corp ManageEngine Password Manager Pro": [
+    "www.manageengine.com"
+  ],
+  "Progress Telerik Fiddler Everywhere": [
+    "www.clouddefense.ai",
+    "www.telerik.com"
+  ],
+  "uTorrent": [
+    "mavlevin.com"
+  ],
+  "InduSoft Web Studio": [
+    "ics-cert.us-cert.gov"
+  ],
+  "Veeam Service Provider Console": [
+    "www.veeam.com"
+  ],
+  "SimpleHelp": [
+    "simple-help.com"
+  ],
+  "Microsoft PowerShellGet": [
+    "github.com",
+    "msrc.microsoft.com"
+  ],
+  "Pale Moon": [
+    "www.palemoon.org"
+  ],
+  "Apache Commons Text": [
+    "lists.apache.org"
+  ],
+  "Microsoft PowerPoint 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft OneNote 2013 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Expat": [
+    "github.com"
+  ],
+  "Microsoft InfoPath 2013 Service Pack 1": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Publisher 2007 Service Pack 3": [
+    "msrc.microsoft.com"
+  ],
+  "Okta Advanced Server Access": [
+    "trust.okta.com"
+  ],
+  "Microsoft LightGBM": [
+    "msrc.microsoft.com"
+  ],
+  "Oracle MySQL Connector/ODBC": [
+    "www.oracle.com"
+  ],
+  "uVNC UltraVNC": [
+    "github.com"
+  ],
+  "Microsoft PowerPoint 2010 Service Pack 2": [
+    "msrc.microsoft.com"
+  ],
+  "POSIM EVO": [
+    "versprite.com"
+  ],
+  "Microsoft Visual Basic 6.0": [
+    "learn.microsoft.com"
+  ],
+  "mitmproxy pdoc": [
+    "github.com"
+  ],
+  "Microsoft InfoPath 2010 Service Pack 2": [
+    "learn.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "Microsoft OneNote for Universal": [
+    "msrc.microsoft.com"
+  ],
+  "Progress Telerik JustAssembly": [
+    "docs.telerik.com"
+  ],
+  "Microsoft .NET Education Bundle SDK Install Tool": [
+    "msrc.microsoft.com"
+  ],
+  "Microsoft Visual Studio 2013": [
+    "msrc.microsoft.com"
+  ],
+  "3CX Desktop App": [
+    "www.3cx.com"
+  ],
+  "Amazon Ion Java": [
+    "github.com"
+  ],
+  "Atlassian Bitbucket": [
+    "jira.atlassian.com"
+  ]
+}
